@@ -11,11 +11,13 @@ In my free time I like to listen music and do or learn anything from computers t
 Network
 - Windows & Linux servers
 - Netowrk devices(Cisco,Juniper)
+
 Scripting
 - Powershell Scripting
 - Shell Scripting
 - SQL
-Hardware skills 
+
+Hardware skills Hello, I'm Antonios. I'm a 26-year-old IT guy who plays with network devices and anything else related to computer science.
 - Computre assembling
 - Troubleshooting
 - Maintenance
