@@ -17,14 +17,14 @@ Scripting
 - Shell Scripting
 - SQL
 
-Hardware skills Hello, I'm Antonios. I'm a 26-year-old IT guy who plays with network devices and anything else related to computer science.
+Hardware 
 - Computre assembling
 - Troubleshooting
 - Maintenance
 
 Software Desing
 - Photo & Books/Magazines
- - Photoshop
+  - Photoshop
   - InDesing
 - Video editing
   - Premier Pro Adobe
