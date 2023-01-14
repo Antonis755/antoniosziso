@@ -1,4 +1,10 @@
-## Raspberry Pi Basic Setup
+---
+layout: post
+title: Raspberry Pi Basic Setup
+categories: [Raspberry, linux, ssh]
+---
+ 
+I did a college project a few years ago where I had to get a Raspberry Pi and collaborate with other students; since then, I've kept the Pi and use it for various things that might be useful.
 
 I did a college project a few years ago where I had to get a Raspberry Pi and collaborate with other students; since then, I've kept the Pi and use it for various things that might be useful. 
 
