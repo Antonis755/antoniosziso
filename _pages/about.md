@@ -19,6 +19,7 @@ Hardware skills
 - Computre assembling
 - Troubleshooting
 - Maintenance
+
 Software Desing
 - Photo & Books/Magazines
     Photoshop
