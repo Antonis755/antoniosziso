@@ -24,9 +24,9 @@ Hardware skills Hello, I'm Antonios. I'm a 26-year-old IT guy who plays with net
 
 Software Desing
 - Photo & Books/Magazines
-    Photoshop
-      InDesing
+  Photoshop
+  InDesing
 - Video editing
-    Premier Pro Adobe
+  remier Pro Adobe
 
 
