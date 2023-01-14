@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspberry Pi Basic Setup
+title: Coming Soon
 categories: [Raspberry, linux, ssh]
 ---
 
