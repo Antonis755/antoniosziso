@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![logo](git.jpg)
+![logo](../git.jpg)
 
 Hello, I'm Antonios. I'm a 26-year-old IT guy who plays with network devices and anything else related to computer science.
 In my free time I like to listen music and do or learn anything from computers to coffee.
