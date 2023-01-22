@@ -5,7 +5,7 @@ categories: [Raspberry Pi, linux, ssh]
 ---
 
 
-# A guide on how to setup a Rasspberry Pi, connect with SSH and create SSH keys.
+## A guide on how to setup a Rasspberry Pi, connect with SSH and create SSH keys.
 
 
 I did a college project a few years ago where I had to get a Raspberry Pi and collaborate with other students; since then, I’ve kept the Pi and use it for various things that might be useful.
