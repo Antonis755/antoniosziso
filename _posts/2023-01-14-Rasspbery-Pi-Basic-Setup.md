@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspberry Pi Basic Setup
+title: Rasspbery Pi Basic Setup
 categories: [Rasspbery Pi, linux, ssh]
 ---
 
