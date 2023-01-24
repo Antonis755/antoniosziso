@@ -10,4 +10,4 @@ Here you can find some of my projects that I did.
 
 
 As an enthusiast of espresso I made a sample magazine, this was my first project with InDesing, learned many things but still have more to learn. 
-<embed src="../files/espressomagazinetest.pdf" width="800px" height="1100px" />
+<embed src="../files/espressomagazinetest.pdf" width="800px" height="900px" />
