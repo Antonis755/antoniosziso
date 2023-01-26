@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Rasspbery Pi Basic Setup
-categories: [Rasspbery Pi, linux, ssh]
+title: Raspberry Pi Basic Setup
+categories: [Raspberry Pi, linux, ssh]
 ---
 
 
-### A guide on how to setup a Rasspbery Pi, connect with SSH and create SSH keys.
+### A guide on how to setup a Raspberry Pi, connect with SSH and create SSH keys.
 
 
 I did a college project a few years ago where I had to get a Raspberry Pi and collaborate with other students; since then, I’ve kept the Pi and use it for various things that might be useful.
@@ -36,7 +36,7 @@ Next thing I'm gonna need is SSH access.
 
 FYI*: SSH is a network protocol used for remote login and command line execution, its the easiest way to control remote machines and servers without needing to be there.
 
-By default rasspbery pi does not allow ssh, so I have to enable it by clicking the rassbpery icon > preferences > rassbpery pi configuration, interfaces and where it says ssh click enabled. 
+By default Raspberry pi does not allow ssh, so I have to enable it by clicking the rassbpery icon > preferences > rassbpery pi configuration, interfaces and where it says ssh click enabled. 
 
 
 <img src="../images/settings.png" alt="settings" class="center" style="width:500px;height:400px;"> <img src="../images/interfaces.png" alt="interfaces" class="center" style="width:500px;height:400px;">
@@ -56,7 +56,7 @@ On my computer I will open the terminal and type this command **"ssh antonis@192
 
 For windows: Windows 10/11 users can use Command Prompt or download PuTTy, on Command Prompt you can use the same command as shown before, for PuTTy follow the instruction in the website.
 
-Every time that I will SSH into my rasspbery pi it will ask for the password, to avoid this and make it easier I will to generate SSH Keys from my computer, I will open a second terminal on my computer and type **"ssh-keygen -t rsa"**, since this is on a home network I will just press enter on every prompt, next I will copy the public key into the pi, the command I'm gonna use for this is **"ssh-copy-id -i ~/.ssh/id_rsa.pub antonis@192.168.2.36"**, the -i option allows to pick a public key of our choise.
+Every time that I will SSH into my Raspberry pi it will ask for the password, to avoid this and make it easier I will to generate SSH Keys from my computer, I will open a second terminal on my computer and type **"ssh-keygen -t rsa"**, since this is on a home network I will just press enter on every prompt, next I will copy the public key into the pi, the command I'm gonna use for this is **"ssh-copy-id -i ~/.ssh/id_rsa.pub antonis@192.168.2.36"**, the -i option allows to pick a public key of our choise.
 I'm ready to go, I will exit from the other terminal and ssh again, as you see no prompt for password at all.
 
 
@@ -74,7 +74,7 @@ FYI: I used VIM editor to edit the file **(sudo vim /etc/dhcpcd.conf)**, but for
 
 ### Last Words
 The above demonstration is a basic setup, anyone with not or a little bit of experience can perform this tasks, not to mention there a lot of websites with the same instructions. 
-Rasspbery Pi is a great machine to enter the world of computers, from programing to network and robotics, you can learn many things and it may become your hobby.
+Raspberry Pi is a great machine to enter the world of computers, from programing to network and robotics, you can learn many things and it may become your hobby.
 
 I reccomend you to visit the official website and find more ideas on where to [start.](https://projects.raspberrypi.org/en)
 
