@@ -44,7 +44,7 @@ I can’t describe how much I love the supper button, its fast and gives multipl
 
 GNU/Linux has done a big progress is the last years, more apps are available to the users.  As you can see in the photo, I use RawTherapee to edit high quality photos, such as the ones I shoot with my dsrl, next app is Kdenlive, a very useful and easy app to make and edit videos, finally I’m using krita to edit or paint anything I want. 
 Ofcourse fedora provides basic apps like clock, weather and  document scan that helps with every day small tasks.
-<img src="../images/mydistro_4.png" alt="apps" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_4.png" alt="apps" class="center" style="width:700px;height:400px;"> 
 
 
 ##  Music and Gaming
