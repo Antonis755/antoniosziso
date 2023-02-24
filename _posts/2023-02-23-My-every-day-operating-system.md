@@ -8,7 +8,10 @@ categories: [Linux, OS, Desktop]
 ### My every day operating system!
 
 
-My first computer had Windows 2000, and after that I got a new computer with Windows 7; Windows 7 was the best OS I had at the time. A few years later I got a laptop and installed Windows 10; it was a hard no from me, but since Windows 7 had an EOL (End Of Life) date, I did adapt with Windows 10.
+My first computer had Windows 2000, and after that I got a new computer with Windows 7; Windows 7 was the best OS I had at the time. 
+
+A few years later I got a laptop and installed Windows 10; it was a hard no from me, but since Windows 7 had an EOL (End Of Life) date, I did adapt with Windows 10.
+ 
  Not far later I discovered GNU/Linux, it was free and easy to install, the only problems was gaming and application support.  That didn't put me down, so I tried Ubuntu, and I was amazed, new interface, side bar, firefoxe pre installed and most importantly it had SUPER BUTTON.
  
 Ubuntu was great, as I said before I was amazed, but didn’t take long till I found other  distros like Mint, Parrot os, KDE, Fedora, Arch, Gentoo and many more.
