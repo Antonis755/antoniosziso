@@ -18,7 +18,9 @@ Ubuntu was great, as I said before I was amazed, but didn’t take long till I f
 
 At this point, I had created virtual machines for each distro in which I was interested, and I spent a lot of time playing with them to make sure I had everything I needed. In the end, I picked Fedora because it was the best fit for me.
 Today, I still use Fedora as my primary distro, and I do things like browsing the internet, sending emails, video editing, text editing, and so on. 
-I want to mention that I have a dual boot, which means I have Fedora 37 and Windows 10 booth installed, but I awlays boot Fedora.
+
+
+**I want to mention that I have a dual boot, which means I have Fedora 37 and Windows 10 booth installed, but I awlays boot Fedora.**
 
 Furthermore, I will show you my desktop through images and  text.
 
@@ -59,7 +61,11 @@ The best part is that it saves me tons of money.
 
 
 
-Overall I have an amazing experience so far, everything works smooth, I turn on my computer and I work as I would with Windows 10/11. I have a dual boot Fedora 37 with Windows 10, and sometimes when I need  a job done that can’t be done with Fedora, I use Windows, but I always boot Fedora.
+
+
+
+Overall I have an amazing experience so far, everything works smooth, I turn on my computer and I work as I would with Windows 10/11. 
+**I have a dual boot Fedora 37 with Windows 10**, and sometimes when I need  a job done that can’t be done with Fedora, I use Windows, but I always boot Fedora.
 
 
 
