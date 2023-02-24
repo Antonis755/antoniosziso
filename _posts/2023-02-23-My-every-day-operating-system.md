@@ -27,12 +27,12 @@ This is my login interface, fedora has a black screen on login page by defaut, b
 
 This is my desktop, you will notice temperature, date, time, the activities button and settings far right. By clicking on date I can access notifications, calendar and weather in more detail. 
 Using this interface daily, I find it easy and useful to operate. 
-<img src="../images/mydistro_2.png" alt="desktop" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_2.png" alt="desktop" class="center" style="width:700px;height:400px;"> 
 
 
 When I press the super button, otherwise known as windows button, I can see all the applications open at this moment, I can also move to my second desktop screen, if I press the supper button again it returns back to where I was, you will also notice the bar down, its very useful to pin apps or find and click an app thats already open.
 I can’t describe how much I love the supper button, its fast and gives multiple options at once. 
-<img src="../images/mydistro_3.png" alt="overview" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_3.png" alt="overview" class="center" style="width:700px;height:400px;"> 
 
 
 ## Apps
