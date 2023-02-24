@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My every day operating system!
+title: My every day operating system
 categories: [Linux, OS, Desktop]
 ---
 
