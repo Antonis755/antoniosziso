@@ -20,7 +20,7 @@ I want to mention that I have a dual boot, which means I have Fedora 37 and Wind
 Furthermore, I will show you my desktop through images and  text.
 
 This is my login interface, fedora has a black screen on login page by defaut, but with blur my shell extension  you can change it to something like this.
-<img src="../images/mydistro_1.png" alt="login" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_1.png" alt="login" class="center" style="width:700px;height:400px;"> 
 
 
 
@@ -46,13 +46,13 @@ Ofcourse fedora provides basic apps like clock, weather and  document scan that 
 
 Music and gaming are part of my life, for music I use the spotify app, and for gaming I use steam with proton and  heroic games. Gaming works perfect with no problems most of the times, might get some glitches from time to time, but nothing to worry. The best part was using my logitech  g27 gaming wheel, I used to play games like Euro Truck Simulator 2,  Assetto Corsa and F1 2015.
 I want to mention here that all the games I play are supported by proton. 
-<img src="../images/mydistro_5.png" alt="gaming" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_5.png" alt="gaming" class="center" style="width:700px;height:400px;"> 
 
 ## Text editors
 
 To replace Microsoft Office, Fedora has pre-installed  LibreOffice, its a free and open source productivity software suite, it can really do everything I need to, writing, excel formulas and so on.
 The best part is that it saves me tons of money.
-<img src="../images/mydistro_6.png" alt="edotors" class="center" style="width:500px;height:400px;"> 
+<img src="../images/mydistro_6.png" alt="edotors" class="center" style="width:700px;height:400px;"> 
 
 
 
