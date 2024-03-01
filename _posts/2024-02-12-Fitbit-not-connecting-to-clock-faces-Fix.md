@@ -26,7 +26,7 @@ While in the past, this would have done it, this time didn't work!
 I opened the app again and got the same error. Now I clicked a couple times to retry, and I checked the query logs on the Pihole interface. I saw that www.google-analytics.com was green, which means it is ok to go, but cdn.optimizely.com is red, which means it is blocked. I was not 100% sure, but I double checked by googling, and I saw that this domain should be whitelisted. So I whitelisted as I did before (Domains > type domain > add to whitelist > assign group fitbit only), then I pressed retry, and it finally worked!
 
 <img src="../images/fitbit4.png" alt="second client" class="center" style="display: block; margin-left: auto; margin-right: auto;  width:50%;"> 
-<img src="../images/fitbit6.png" alt="clock interface" class="center" style="width:500px;height:10000px;"> 
+<img src="../images/fitbit6.png" alt="clock interface" class="center" style="width:700px;height:1000px;"> 
 
 ### Its working!
 As you can see its finally working as it should! 
