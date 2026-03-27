@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RHow I listen music daily and what do I listen
+title: How I listen music daily and what do I listen
 categories: [Music, Vinyls, Cd]
 ---
 
@@ -31,20 +31,13 @@ Greeks and Albanian folklore.
 
 Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
- <img src="../images/Cd1.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd1.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/CD2.png" alt="Electoric" class="center" style="width:500px;height:400px;"> 
 
-  <img src="../images/Cd2.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd3.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd4.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd5.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd6.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd7.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd8.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd9.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd10.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd11.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd12.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinyl1.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinyl2.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinyl3.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinyl4.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/writer2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+  <img src="../images/Cd3.jpg" alt="" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd5.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd7.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd8.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd9.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd10.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd11.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd12.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Vinly1.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Vinly2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Vinly3.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Vinly4.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+
