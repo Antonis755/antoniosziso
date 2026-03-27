@@ -2,6 +2,7 @@
 layout: post
 title: How I listen music daily and what do I listen
 categories: [Music, Vinyls, Cd]
+published: true
 ---
 
 A blog post about me and my every day music!
