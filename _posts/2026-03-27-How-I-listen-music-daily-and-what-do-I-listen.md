@@ -5,7 +5,7 @@ categories: [Music, Vinyls, Cd]
 featured: false
 ---
 
-
+A blog post about me and my every day music!
 
 ### How I listen music daily and what do I listen
 
