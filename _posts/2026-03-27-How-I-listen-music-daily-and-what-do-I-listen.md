@@ -34,10 +34,10 @@ Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
  <img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
 
   <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd5.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd7.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd8.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd9.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd10.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Cd11.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Cd12.jpg" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinly1.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Vinly2.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
- <img src="../images/Vinly3.jpg" alt="writer1" class="center" style="width:500px;height:400px;">  <img src="../images/Vinly4.png" alt="writer2" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd5.jpg" alt=" Contemporary Jazz, Folk" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="Jazz" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd7.jpg" alt="POP" class="center" style="width:500px;height:400px;">  <img src="../images/Cd8.jpg" alt="Soul, Vocal, Neo Soul" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd9.jpg" alt="Greek" class="center" style="width:500px;height:400px;">  <img src="../images/Cd10.jpg" alt="Greek, Modern" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Cd11.jpg" alt="Polyphonic, Albania" class="center" style="width:500px;height:400px;">  <img src="../images/Cd12.jpg" alt="Folk, World, & Country, Pop" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Vinyl1.jpg" alt=" Electronic, Pop" class="center" style="width:500px;height:400px;">  <img src="../images/Vinyl2.jpg" alt="Electronic, Jazz,Funk/Soul" class="center" style="width:500px;height:400px;"> 
+ <img src="../images/Vinyl3.jpg" alt="Funk/Soul" class="center" style="width:500px;height:400px;">  <img src="../images/Vinyl4.jpg" alt="Greek" class="center" style="width:500px;height:400px;"> 
 
