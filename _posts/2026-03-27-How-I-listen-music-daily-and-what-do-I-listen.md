@@ -2,6 +2,7 @@
 layout: post
 title: How I listen music daily and what do I listen
 categories: [Music, Vinyls, Cd]
+featured: false
 ---
 
 
