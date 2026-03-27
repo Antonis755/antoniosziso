@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How I listen music daily and what do I listen
+date: '2026-03-27 10:56:0 +20700'
 categories: [Music, Vinyls, Cd]
-published: true
 ---
 
 A blog post about me and my every day music!
