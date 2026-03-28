@@ -31,7 +31,11 @@ Greeks and Albanian folklore.
 
 Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
- <img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
+
+<p><img src="../images/Cd1.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;"><img src="../images/Cd2.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;"><img src="../images/Cd3.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;">
+
+ <img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
+ <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd5.jpg" alt=" Contemporary Jazz, Folk" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="Jazz" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd7.jpg" alt="POP" class="center" style="width:500px;height:400px;">  <img src="../images/Cd8.jpg" alt="Soul, Vocal, Neo Soul" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd9.jpg" alt="Greek" class="center" style="width:500px;height:400px;">  <img src="../images/Cd10.jpg" alt="Greek, Modern" class="center" style="width:500px;height:400px;"> 
