@@ -7,7 +7,7 @@ categories: [Pihole, linux, Fitbit, Versa 2]
 
 Looking just for the answer? Go to the end of this article! if not continue reading.
 
-I have owned a Fitbit Versa 2 for quite a while, and everything works really well. Having it on the same network with a pihole means changing clock faces won't be possible. hey hey hey.
+I have owned a Fitbit Versa 2 for quite a while, and everything works really well. Having it on the same network with a pihole means changing clock faces won't be possible.
 
 ### How did I get into this problem? And how I tried to fix it.
 I wanted to search for a new clock face, which from versa 2 itself, can't be done. Instead, I had to use the app to search and install a new one, and there I came upon a message "Oops looks like there is no Internet connection" (See picture bellow). This was a familiar message to me, since I had seen it again in the past and I had fixed it.
