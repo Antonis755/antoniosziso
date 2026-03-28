@@ -31,7 +31,7 @@ Greeks and Albanian folklore.
 
 Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
-Electronic 
+Electronic<br>
  <a href="https://www.discogs.com/release/9169-DJ-Heather-Tangerine"><img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
  <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd5.jpg" alt=" Contemporary Jazz, Folk" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="Jazz" class="center" style="width:500px;height:400px;"> 
