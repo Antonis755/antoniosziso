@@ -31,9 +31,8 @@ Greeks and Albanian folklore.
 
 Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
-<img src="../images/Cd1.jpg" alt="Electronic"  style="width:500px;height:400px;object-position: 80% 100%;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd3.jpg" alt="Electronic" class="right" style="width:500px;height:400px;"> 
-<!--
-<img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
+Electronic 
+ <a href="https://www.discogs.com/release/9169-DJ-Heather-Tangerine"><img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
  <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd5.jpg" alt=" Contemporary Jazz, Folk" class="center" style="width:500px;height:400px;">  <img src="../images/Cd6.jpg" alt="Jazz" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Cd7.jpg" alt="POP" class="center" style="width:500px;height:400px;">  <img src="../images/Cd8.jpg" alt="Soul, Vocal, Neo Soul" class="center" style="width:500px;height:400px;"> 
@@ -41,4 +40,4 @@ Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
  <img src="../images/Cd11.jpg" alt="Polyphonic, Albania" class="center" style="width:500px;height:400px;">  <img src="../images/Cd12.jpg" alt="Folk, World, & Country, Pop" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Vinyl1.jpg" alt=" Electronic, Pop" class="center" style="width:500px;height:400px;">  <img src="../images/Vinyl2.jpg" alt="Electronic, Jazz,Funk/Soul" class="center" style="width:500px;height:400px;"> 
  <img src="../images/Vinyl3.jpg" alt="Funk/Soul" class="center" style="width:500px;height:400px;">  <img src="../images/Vinyl4.jpg" alt="Greek" class="center" style="width:500px;height:400px;">
- -->
+
