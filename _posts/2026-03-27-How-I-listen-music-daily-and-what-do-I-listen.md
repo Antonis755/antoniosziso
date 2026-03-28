@@ -9,7 +9,7 @@ A blog post about me and my every day music!
 ### How I listen music daily and what do I listen
 
 
-The past!
+##### The past!
 Music for me was all my childhood and teenage years, meaning that, back then, we used to get a lot of music from the TV and Radio mainly, and later, through CD’s and cassettes. Shortly after, the Internet came, and we started downloading music from YouTube as mp3’s, from Daft Punk to Lady Gaga and going on. The next big thing were Itunes and Google Play Music, which introduced (for me at least) buying songs online and streaming services, and around there I remember finding Spotify (Around 2013-2015).
 The world of music back then used to be powerful, all types of genres to listen to and discover, CDs and cassettes to exchange and buy, and as long as I remember, it was not as expensive as today.
 
