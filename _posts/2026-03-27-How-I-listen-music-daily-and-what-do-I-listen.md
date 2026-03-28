@@ -34,10 +34,9 @@ Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
 <p float="left">
   <img src="../images/Cd1.jpg" width="33%" />
-  <img src="../images/Cd2.jpg" width="33% />
+  <img src="../images/Cd2.jpg" width="33%" />
   <img src="../images/Cd3.jpg" width="33%" />
 </p>
-
 
 
 <!--
