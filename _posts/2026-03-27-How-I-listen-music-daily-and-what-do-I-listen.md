@@ -32,7 +32,10 @@ Greeks and Albanian folklore.
 Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
 
-<p><img src="../images/Cd1.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;"><img src="../images/Cd2.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;"><img src="../images/Cd3.jpg" style="float: left; margin-right: 5%; margin-bottom: 1em;">
+| Cat pics               | Dog pics               |  | Electronic             |     
+| ---------------------- | ---------------------- |  | ---------------------- | 
+| ![cd1](../images/Cd1.jpg) | ![cd2](../images/Cd2.jpg) |  | ![CD3](../images/Cd3.jpg) |
+
 
  <img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
  <img src="../images/Cd3.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd4.jpg" alt="Electronic" class="center" style="width:500px;height:400px;"> 
