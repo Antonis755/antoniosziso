@@ -33,13 +33,27 @@ Favorite albums or Cd’s and Vinyls(It was difficult, so many to pick!):
 
 
 
-<figure class="half">
-	<img src="../images/Cd1.jpg" alt="image">
-	<img src="../images/Cd2.jpg" alt="image">
-  <img src="../images/Cd3.jpg" alt="image">
-	<figcaption>Caption describing these two images.</figcaption>
-</figure>
+<div class="row">
+  <div class="column">
+    <img src="../images/Cd1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/Cd2.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/Cd1" alt="Mountains" style="width:100%">
+  </div>
+</div>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 
 <!--
 <img src="../images/Cd1.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  <img src="../images/Cd2.jpg" alt="Electronic" class="center" style="width:500px;height:400px;">  
