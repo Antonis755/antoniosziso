@@ -18,7 +18,7 @@ So even if I want to fix them, I  can’t. Depending on the problem, I  either b
 
 My first item was the KZ Zen Pro, a basic entry and a cheap item that would perform well, but nothing like my second one, TKZK Our anus, which I think I paid 50 cad$, and the detail was so much better. I loved the sound and the cable was flexible, but still not good as my third item, 7Hz Sonus at 83 cad$, that had more detail on the sound, and it delivers on anything I was looking for.<br>
 As I mentioned earlier, all of them broke one way or another, but the one thing I could always do, was to mix them up. In my last pair of Sonus 7Hz, the cable on the top of the right side was causing a cut of sound periodically when moving, which means the solution is to change cables!
- <img src="../images/iem1/memeiem.jpg" alt="wired headphones meme" class="center" style="width:700px;height:400px;"> 
+ <img src="../images/iem1/memeiem.jpg" alt="wired headphones meme" class="center" style="width:500px;height:700px;"> 
 
 I took the cable for the TKZK Ouranus and my Sonus 7Hz earbuds and put them together, easy as that, plug and play. The common thing that most items have, is the 2-pin cable, where you just plug it in, and you are ready to go. If you own more than 2 items, it’s a great way to fix the problem and avoid buying a new one if you can’t afford it.<br>
 IMAGE<br>
