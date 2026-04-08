@@ -1,4 +1,11 @@
-My wired earbuds are broken once again!!
+---
+layout: post
+title: My wired earbuds are broken once again!!
+categories: [earbuds, iem, music, fix]
+---
+
+A post about IEM's practicality 
+
 
 Once again, my wired earbuds are broken. The thing is, I always had bad luck with earbuds, and especially with IEM's (In-ear monitor), starting at a very young age, when my dad bought me a 10 euro wired no-name earbud back then, and weeks after, the right earbud cut off (don’t ask how, silly young me). Many years later, I got my first iem’s, which I was amazed by the sound, blasting music all day long, but the cable broke, it needed to be held left and right, and like that my other item broke down.
 Bad luck can be one factor, but the way iem’s are folded so they can be put in the pouch, is another way (folding them round).
