@@ -30,7 +30,7 @@ Everything I own, except the Ouranus earbuds (I have them in the closet).
 
 Two things to mention here are that some 2-pin cables sometimes may have different sizes, meaning when looking for or buying new IEM’s, be sure to check the description about the size of the 2-pin. And, some companies may wrap the 2-pin with plastic around, as part of the design, and leave only a couple CM exposed, making it unable to be used with other earbuds.
 Here is an image of a 2 pin cable, where the earbuds plug in.
-<img src="../images/iem1/2pin.jpg" alt="2 pin cable" class="center" style="width:500px;height:700px;"> 
+<img src="../images/iem1/2pin.jpg" alt="2 pin cable" class="center" style="width:900px;height:900px;"> 
 
 
 IEM's might not be like the big headphones, where they cover the ear, and minimize the outside sounds, but when talking about quick fix, it can be very easy. 
