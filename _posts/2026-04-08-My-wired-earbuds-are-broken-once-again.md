@@ -22,8 +22,11 @@ As I mentioned earlier, all of them broke one way or another, but the one thing 
 
 I took the cable for the TKZK Ouranus and my Sonus 7Hz earbuds and put them together, easy as that, plug and play. The common thing that most items have, is the 2-pin cable, where you just plug it in, and you are ready to go. If you own more than 2 items, it’s a great way to fix the problem and avoid buying a new one if you can’t afford it.<br>
 
-Everything I own, except the Ouranus (I have them in the closet).
-<img src="../images/iem1/iem1.jpeg" alt="wired headphones meme" class="center" style="width:1500px;height:1125px;"> 
+
+Everything I own, except the Ouranus earbuds (I have them in the closet).
+<img src="../images/iem1/iem1.jpeg" alt="all the iems" class="center" style="width:1125px;height:1500px;"> 
+
+
 
 Two things to mention here are that some 2-pin cables sometimes may have different sizes, meaning when looking for or buying new IEM’s, be sure to check the description about the size of the 2-pin. And, some companies may wrap the 2-pin with plastic around, as part of the design, and leave only a couple CM exposed, making it unable to be used with other earbuds.
 Here is an image of a 2 pin cable, where the earbuds plug in.
