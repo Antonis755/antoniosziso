@@ -9,7 +9,6 @@ permalink: /about/
 Hello, I'm Antonios. I'm a 29-year-old IT guy. In my free time I enjoy listen to music throught my record collection, play with my 2 out of 3 satellite dishes, go for a run, read a book or play PC/Wii games.<br>
 My personal desktop consist of a dual boot OS Windows 11 and Linux Fedora 43, with my every day and main OS being Fedora.<br>
 If you want to know more about my every day OS, check this quite old post<br>
-<a href="(https://antonis755.github.io/antoniosziso/My-every-day-operating-system/)">Every day OS blog post</a>
 [Every day OS blog post](https://antonis755.github.io/antoniosziso/My-every-day-operating-system/)
 
 
