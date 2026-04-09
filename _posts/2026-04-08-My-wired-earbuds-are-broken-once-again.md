@@ -24,7 +24,7 @@ I took the cable for the TKZK Ouranus and my Sonus 7Hz earbuds and put them toge
 
 
 Everything I own, except the Ouranus earbuds (I have them in the closet).
-<img src="../images/iem1/iem1.jpeg" alt="all the iems" class="center" style="width:1125px;height:1500px;"> 
+<img src="../images/iem1/iem1.jpeg" alt="all the iems" class="center" style="width:1500px;height:1125:px;"> 
 
 
 
