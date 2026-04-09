@@ -32,9 +32,9 @@ Two things to mention here are that some 2-pin cables sometimes may have differe
 Here is an image of a 2 pin cable, where the earbuds plug in.
 <img src="../images/iem1/2pin.jpg" alt="2 pin cable" class="center" style="width:900px;height:900px;"> 
 
+<img src="../images/iem1/iem2.jpg" alt="2 pin cable" class="center" style="width:1500px;height:1125px;"> 
 
 IEM's might not be like the big headphones, where they cover the ear, and minimize the outside sounds, but when talking about quick fix, it can be very easy. And to be true, I had once some cheap bluetooth earbuds, which never fited good in my ears (same goes for iems), but once water fell over, no way to fix them like iems. 
 
-ddfdfd
-<img src="../images/iem1/iem2.jpg" alt="2 pin cable" class="center" style="width:1500px;height:1125px;"> 
+
 
