@@ -1,4 +1,4 @@
-![iem2](https://github.com/user-attachments/assets/ec2f0967-2c27-4645-bb7b-4a2554f7a254)![iem2](https://github.com/user-attachments/assets/4de0df65-0bb8-4d03-ae2c-28b00da72b9e)---
+---
 layout: post
 title: My wired earbuds are broken once again!!
 categories: [earbuds, iem, music, fix]
