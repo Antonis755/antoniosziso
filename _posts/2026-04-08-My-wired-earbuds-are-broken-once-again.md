@@ -4,7 +4,7 @@ title: My wired earbuds are broken once again!!
 categories: [earbuds, iem, music, fix]
 ---
 
-A post about IEM's practicality 
+A post about IEM's and a quick fix 
 
 
 Once again, my wired earbuds are broken. The thing is, I always had bad luck with earbuds, and especially with IEM's (In-ear monitor), starting at a very young age, when my dad bought me a 10 euro wired no-name earbud back then, and weeks after, the right earbud cut off (don’t ask how, silly young me). Many years later, I got my first iem’s, which I was amazed by the sound, blasting music all day long, but the cable broke, it needed to be held left and right, and like that my other item broke down.<br>
@@ -21,6 +21,13 @@ As I mentioned earlier, all of them broke one way or another, but the one thing 
  <img src="../images/iem1/memeiem.jpg" alt="wired headphones meme" class="center" style="width:500px;height:700px;"> 
 
 I took the cable for the TKZK Ouranus and my Sonus 7Hz earbuds and put them together, easy as that, plug and play. The common thing that most items have, is the 2-pin cable, where you just plug it in, and you are ready to go. If you own more than 2 items, it’s a great way to fix the problem and avoid buying a new one if you can’t afford it.<br>
-IMAGE<br>
+
+Everything I own, except the Ouranus (I have them in the closet).
+<img src="../images/iem1/iem1.jpeg" alt="wired headphones meme" class="center" style="width:1500px;height:1125px;"> 
+
 Two things to mention here are that some 2-pin cables sometimes may have different sizes, meaning when looking for or buying new IEM’s, be sure to check the description about the size of the 2-pin. And, some companies may wrap the 2-pin with plastic around, as part of the design, and leave only a couple CM exposed, making it unable to be used with other earbuds.
-2 cable pin image
+Here is an image of a 2 pin cable, where the earbuds plug in.
+<img src="../images/iem1/2pin.jpg" alt="2 pin cable" class="center" style="width:500px;height:700px;"> 
+
+
+IEM's might not be like the big headphones, where they cover the ear, and minimize the outside sounds, but when talking about quick fix, it can be very easy. 
