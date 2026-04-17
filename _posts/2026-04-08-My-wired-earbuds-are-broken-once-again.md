@@ -37,5 +37,5 @@ IEM's might not be like the big headphones, where they cover the ear, and minimi
 
 
 
-<img src="../images/iem1/iem2.jpg" alt="iems final" class="center" style="width:1500px;height:1125px;"> 
+<img src="../images/iem1/iem2.jpg" alt="iems final" class="center" style="width:1400px;height:1125px;"> 
 
