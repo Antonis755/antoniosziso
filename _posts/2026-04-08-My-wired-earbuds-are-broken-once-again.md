@@ -34,8 +34,4 @@ Here is an image of a 2 pin cable, where the earbuds plug in.
 
 
 IEM's might not be like the big headphones, where they cover the ear, and minimize the outside sounds, but when talking about quick fix, it can be very easy. And to be true, I had once some cheap bluetooth earbuds, which never fited good in my ears (same goes for iems), but once water fell over, no way to fix them like iems. 
-
-
-
-<img src="../images/iem1/iem2.jpg" alt="iemsfinal"  style="width:1500px;height:1125px;"> 
-
+<img src="../images/iem1/iem2.jpg" alt="iems final" class="center" style="width:1500px;height:1125px;"> 
