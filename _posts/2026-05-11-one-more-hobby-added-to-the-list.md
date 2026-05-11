@@ -30,5 +30,5 @@ I don’t know for how long I will keep playing, but it is something that intere
 My dad said, “Why do you get obsessed with billiards!?”, and I was like, “because I like it, and it’s a way to kill some time.” My dad will always be my dad, he is fine with it in the end. To be true, he also enjoys telling me about the time he and his friend sneaked in to play billiards, late at night.
 
 
-And here is a photo of my Dufferin cue, which could be Canadian or Chinese (I have to do a little bit research on that),
+And here is a photo of my Dufferin cue, which could be Canadian or Chinese (I have to do a little bit research on that).
 <img src="../images/cue1.jpg" alt="Dufferin Cue" class="center" style="width:1500px;height:1125:px;"> 
