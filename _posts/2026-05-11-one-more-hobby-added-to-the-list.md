@@ -30,7 +30,7 @@ My dad said, “Why do you get obsessed with billiards!?”, and I was like, “
 
 
 And here is a photo of my Dufferin cue, which could be Canadian or Chinese (I have to do a little bit research on that),
-<img src="../images/iem1/cue.jpeg" alt="Dufferin Cue" class="center" style="width:1500px;height:1125:px;"> 
+<img src="../images/cue.jpeg" alt="Dufferin Cue" class="center" style="width:1500px;height:1125:px;"> 
 
 
 
