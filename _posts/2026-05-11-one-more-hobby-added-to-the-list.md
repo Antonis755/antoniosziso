@@ -9,6 +9,7 @@ categories: [billiards, straight pool, hobby, hobbies]
 After installing my satellite dish (another post that comes), I was going through the thousands of channels listed on my screen, when I found the only one legendary Euro sport. Since then, I have spent thousands of hours watching unique sports. But the one sport that made me watch and learn about it, was Snooker!
 I was amazed, I have to say, well-dressed players, cues and balls on a way different pool table, from what I used to see in movies and in general (straight pool).
 The first steps
+
 After a couple of weeks, I went a bit crazy and I wanted to give it a try, but due to life and stuff going around, I never got the chance. Many months later, a friend of mine had a cue lying around, and I asked for it from him. He was more than happy to give it to me, since he does not play anymore, and it would be waste living it seat there dusted.
 
 When I finally moved continents and got my cue back once again, I started to lay down questions, realizing that snooker is difficult to play, needs lots of practice, and a Snooker table is hard to find here in Athens. Only 2 places have them, and they are far away from where I live. And ofcourse something that any pool player would realize 1 paragraph back, is that my cue is not for Snooker, but for straight pool (also known as American here).
