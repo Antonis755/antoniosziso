@@ -7,8 +7,11 @@ categories: [satellite, tv satellite, guide]
 
 When I was a kid, the internet was not a big thing as it is today, people used to watch a lot of TV, we would need, of course, a TV and a terrestrial antenna or a satellite dish. Terrestrial antennas were most used back then, because first, they were cheap, and second, we could get all the channels in no time.
 Some people would install it by themselves and would be ready to go, others would call a technician and do it for them. We would get lots of channels on terrestrial, but not as many as on satellite, where we would get hundreds of channels, from your own country to your neighborhood countries and it goes on.
+
+
 While nowadays internet has taken over, here in Greece TV is still big medium to get news, watch series (Greek series only) and live sports. Terrestrial is as usual most used, but satellite TV comes after with its high-quality image.  
-People tend to think that satellite TV is dead, a thing that people used to watch back then, and that now everyone uses 1Gb/s Fiber internet connection to watch movies, series and live sports. 
+People tend to think that satellite TV is dead, a thing that people used to watch back then, and that now everyone uses 1Gb/s Fiber internet connection to watch movies, series and live sports.
+
 These people are wrong! Satellite TV is not over.
 Satellite TV is a preferred for places like rural areas, towns and cities, where Fiber or VDSL is not available and ADSL can’t do much. 
  
@@ -43,6 +46,8 @@ As the name suggests, “Hellas Sat”, this satellite was designed for Greece, 
 Now let’s find the satellite dish size I/we will need.
 This can be done easily by going back to Lyngsat. all the way down by clicking “Lyngsat maps” and selecting Europe > 39.0E 3 or 4 > Europe again.
 As you can see, Lyngast provides almost the same maps as satbeams, but with dish size depending on where you are. In my case, in Athens, I will need a 50cm or bigger dish to have a good signal.
+
+
 The general rule is: in the center of the footprint, a small dish, as you get outside you will need a bigger dish. But still, it’s always recommended to buy a big dish to get a better signal.
 
 
@@ -56,22 +61,22 @@ Here is photo to visualize it even better.
 
 Types of  LNBs:
 If you have a single box, a single LNB will do just fine, but if you have more than one box, for example, 1 in your living room and 1 in your bedroom, then you are going to need a twin LNB, which has 2 outputs. Of course there are LNB’s with more outputs, see below.
-Single LNB: 1 output 
-Twin: 2 outputs
-Quad: 4 outputs
-Octo:  8 outputs 
-Unicable: Capable of delivering signals to multiple receivers through a single cable. (see photos bellow)  https://www.linuxsat-support.com/cms/article/34-guide-to-using-unicable/
-Monoblock: independent LNBs in a single housing, allows a user the potential of receiving the signal from two different satellites which are at slightly different orbital opposition from a single dish installation.
+Single LNB: 1 output\ 
+Twin: 2 outputs\
+Quad: 4 outputs\
+Octo:  8 outputs \
+Unicable: Capable of delivering signals to multiple receivers through a single cable.  https://www.linuxsat-support.com/cms/article/34-guide-to-using-unicable/\
+Monoblock: independent LNBs in a single housing, allows a user the potential of receiving the signal from two different satellites which are at slightly different orbital opposition from a single dish installation.\
 Duo LNB: A double LNB for simultaneous reception. For example Astra 23.5E and Astra 19.2E at the same time.
 
 LNB Frequency ranges:
 Most of the satellite/channels are using Ku bands, which are at 9750MHz-10600MHz, but you will find also C-band and Ka-banks with different frequencies. Check with lyngsat to see what bands the channels you want to receive are.
-C-band: 5150 MHz
-Ku-band:  9750MHz-10600MHz
-Ka-band: 20.2 GHz, 21.2 GHz (varies)
-techretry.com/lnb-frequency-guide-for-satellite-tv-signals/
+C-band: 5150 MHz\
+Ku-band:  9750MHz-10600MHz\
+Ka-band: 20.2 GHz, 21.2 GHz (varies)\
+techretry.com/lnb-frequency-guide-for-satellite-tv-signals/\
 
-For example, my LNB Inverto universal, falls under Ku-band and works perfect on HotBird 13.0E.
+For example, my LNB Inverto universal, falls under Ku-band and works perfect on HotBird 13.0E.\
 An actuall LNB
 <img src="../images/satelliteguide1/lnb.png" alt="LNB" class="center" style="width:1500px;height:1125:px;">
 
