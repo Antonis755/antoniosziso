@@ -84,7 +84,7 @@ An actuall LNB
 
 ## Finding the satellite and a satellite finder device:
 
-The app
+The app\
 Somewhere in the sky, Hell as Sat is waiting for us to catch its signal. How do we find it? Where is it?\
 We could use a compass and do a couple of calculations, but for the guide and to make everybody's life easier, I recommend you to download any app called “satellite finder”, and use its compass to find the satellite's direction. Simply, easy and quick.\
 You simply select the satellite, and it will see you where you need to point.
