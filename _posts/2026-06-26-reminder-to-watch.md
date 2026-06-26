@@ -10,10 +10,10 @@ TV is almost dead, with lots of news, old movies, and the events or sports I fol
 So I finally decided to put all these events on my calendar, so I don’t miss any of them and share them with you!
 
 ## September
-Sep 1 The Premier League, along with other leagues, has already started, but since I always follow from September 1, because September is where people come back, life comes to normal once again.\
-Sep 6 MTV VMA awards: Music, singers, artists and goes on.\
-Sep 24 Euroleague Basketball: European Basketball starts, with top teams around Europe fighting!
-Sep 30 NHL: I do like to watch hockey from time to time, but it’s difficult to follow because of time deference. Waking up at 3am or even 4am, cuts my sleep in half and I have to go to work.
+**Sep 1 The Premier League:** along with other leagues, has already started, but since I always follow from September 1, because September is where people come back, life comes to normal once again.\
+**Sep 6 MTV VMA awards:** Music, singers, artists and goes on.\
+**Sep 24 Euroleague Basketball:** European Basketball starts with top teams around Europe fighting!
+**Sep 30 NHL:** I do like to watch hockey from time to time, but it’s difficult to follow because of time deference. Waking up at 3am or even 4am, cuts my sleep in half and I have to go to work.
 
 ## January
 **Jan 10 Golden Globe awards**\
