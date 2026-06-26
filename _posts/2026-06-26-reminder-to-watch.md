@@ -6,7 +6,7 @@ categories: [sports, events, awards, tv]
 
 
 It’s almost the end of the season, and by end, I mean the European one. People plan their vacations if they haven’t gone already; empty cities, outdoor events and festivals here and there and an open-air cinema.\
-TV is almost dead, with lots of news, old movies, and the events or sports I follow have finished. I always do the same thing, where I watch a commercial about sports or other events, and I say, “I have to watch that!” But later on I totally forget it.\ 
+TV is almost dead, with lots of news, old movies, and the events or sports I follow have finished. I always do the same thing, where I watch a commercial about sports or other events, and I say, “I have to watch that!” But later on I totally forget it.\
 So I finally decided to put all these events on my calendar, so I don’t miss any of them and share them with you!
 
 ## September
