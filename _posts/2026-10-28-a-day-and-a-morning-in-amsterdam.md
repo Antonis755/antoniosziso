@@ -6,9 +6,6 @@ categories: [Traveling, Amsterdam, Music, Event]
 
 
 ### A day and a morning in Amsterdam
-
-
-
 ### Preface
 This blog post will be in two parts. Part 1 will be the story, information, tips and final thoughts on 
 visiting Amsterdam, and Part 2 will be a not long text, about what the Amsterdam Dance Event is.
