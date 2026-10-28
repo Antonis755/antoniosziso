@@ -62,7 +62,7 @@ for many hours.
 <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/195853292@N06/55608012185/in/dateposted-public/" title="IMG_7645"><img src="https://live.staticflickr.com/65535/55608012185_9da2db0d77_b.jpg" width="1024" height="683" alt="IMG_7645"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 More photos from the trip can be found here:\
-https://flic.kr/s/aHBqjD8mxA
+[https://flic.kr/s/aHBqjD8mxA](https://flic.kr/s/aHBqjD8mxA)
 
 
 ### Tips and last thoughts:
