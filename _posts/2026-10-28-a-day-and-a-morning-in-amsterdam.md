@@ -28,12 +28,16 @@ small shoulder bag for when I go to the club.
 At 6AM EET (UTC+2) my flight departed and at 9AM CET (UTC+1) my flight landed in Amsterdam. 
 I had already made plans about what to do, so I headed to the ticket machine and got a ticket to 
 Amsterdam Central, but due to my stupidity, I managed to get to the wrong train which went to 
-Rotterdam. Realizing this, I searched on Maps for “Rotterdam Central to Amsterdam Central” and 
+Rotterdam.\
+Realizing this, I searched on Maps for “Rotterdam Central to Amsterdam Central” and 
 hopped onto the next train once I was there.\
 Being 1 hour and 30 minutes late and 1 hour away from my visit to Rijksmuseum, I took the risk of 
 getting breakfast at a recommended brunch restaurant. It had quite a line once I got there, which made 
 to wait for at least 15 minutes with the sun above rising slowly, and 15 to 20 minutes to order, wait for 
 my food, eat and head to Rijksmuseum.
+
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/195853292@N06/55607810634/in/dateposted-public/" title="IMG_7699"><img src="https://live.staticflickr.com/65535/55607810634_353519e4ce_b.jpg" width="1024" height="683" alt="IMG_7699"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Moving around Amsterdam is very easy, whether this is on foot or public transport. From the center to 
 the museum, I took the tram, which took an estimated 15 to 20 minutes and a couple of minutes of 
@@ -55,7 +59,10 @@ The next 2 hours ended resting and then walking again to eat dinner at a Vietnam
 from center, a big hot Pho soup, which gave me the strength to arrive by 9PM the ADE event and dance 
 for many hours.
 
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/195853292@N06/55608012185/in/dateposted-public/" title="IMG_7645"><img src="https://live.staticflickr.com/65535/55608012185_9da2db0d77_b.jpg" width="1024" height="683" alt="IMG_7645"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+More photos from the trip can be found here:\
+https://flic.kr/s/aHBqjD8mxA
 
 
 ### Tips and last thoughts:
@@ -96,5 +103,8 @@ that looked like an industrial area. I used once again public transport and walk
 The venue looked like an old, abandoned aircraft parking space, with a big propeller rotating behind the DJ booth, lights were also behind the booth and above the dance floor.\
 The event was perfect, full of energy as more people were coming by the hour.\
 The DJ’s had amazing sets, including my favorite ones, Maria Healy, Craig Connelly and Sneijder.
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/195853292@N06/55617196368/in/album-72177720336295456/" title="IMG_20261022_025814317"><img src="https://live.staticflickr.com/65535/55617196368_41fee0de6e_b.jpg" width="768" height="1024" alt="IMG_20261022_025814317"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 In Trance We Trust: A Trance record label made by Tijs Verwest AKA Tiesto in the late 90’s, which since Tiesto left was taken over various artists. In the moment Richard Durand is in control.
